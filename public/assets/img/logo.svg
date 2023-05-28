@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="200" height="30" viewBox="0 0 200 30">
+  <defs>
+    <clipPath id="clip-Custom_Size_1">
+      <rect width="200" height="30"/>
+    </clipPath>
+  </defs>
+  <g id="Custom_Size_1" data-name="Custom Size – 1" clip-path="url(#clip-Custom_Size_1)">
+    <rect width="200" height="30" fill="#fff"/>
+    <g id="Rectangle_1" data-name="Rectangle 1" fill="#482121" stroke="#482121" stroke-width="1">
+      <rect width="200" height="31" stroke="none"/>
+      <rect x="0.5" y="0.5" width="199" height="30" fill="none"/>
+    </g>
+    <text id="icket" transform="translate(26 25)" fill="#eee" font-size="30" font-family="Leelawadee"><tspan x="0" y="0">icket</tspan></text>
+    <text id="ervice" transform="translate(113 24)" fill="#eee" font-size="30" font-family="Leelawadee"><tspan x="0" y="0">ervice</tspan></text>
+    <text id="T" transform="translate(10 25)" fill="#47a992" font-size="30" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">T</tspan></text>
+    <text id="S" transform="translate(97 25)" fill="#47a992" font-size="30" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">S</tspan></text>
+  </g>
+</svg>
